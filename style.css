@@ -30,6 +30,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 42px;
+    color: white;
 }
 .field:hover{
     cursor: pointer;
